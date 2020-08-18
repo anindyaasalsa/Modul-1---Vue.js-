@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/lat1.png?raw=true "output")
+![output](lat1.png)
