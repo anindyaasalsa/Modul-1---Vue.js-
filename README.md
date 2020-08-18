@@ -1,1 +1,12 @@
 <img src="/output/lat1.png" alt="output modul 1"/>
+<img src="/output/lat2.1.png" alt="output modul 1"/>
+<img src="/output/lat2.2.png" alt="output modul 1"/>
+<img src="/output/lat2.3.png" alt="output modul 1"/>
+<img src="/output/lat3.png" alt="output modul 1"/>
+<img src="/output/lat4-paragraf-1.png" alt="output modul 1"/>
+<img src="/output/lat4-paragraf-2.png" alt="output modul 1"/>
+<img src="/output/lat4-paragraf-3.png" alt="output modul 1"/>
+<img src="/output/lat5.png" alt="output modul 1"/>
+<img src="/output/lat6.1.png" alt="output modul 1"/>
+<img src="/output/lat6.2.png" alt="output modul 1"/>
+<img src="/output/lat7.png" alt="output modul 1"/>
