@@ -1,1 +1,1 @@
-![output](https://github.com/[anindyaasalsa]/[ModuVue.js-]/blob/[master]/output/lat1.png?raw=true)
+<img src="/output/lat1.png" alt="output modul 1"/>
