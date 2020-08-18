@@ -1,1 +1,1 @@
-https://github.com/anindyaasalsa/Modul-1---Vue.js-/tree/master/output
+![Alt text](relative/path/to/lat1.png?raw=true "output")
